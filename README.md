@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
