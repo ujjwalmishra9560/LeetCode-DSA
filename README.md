@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ujjwalmishra9560/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
